@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "SkillBridge Maharashtra"
+description = "A futuristic skill-to-employment platform for Maharashtra's youth, guiding learners from industry skills through structured learning, practical proof, verification, job readiness, and company discovery."
+version = "1.0.0"
+id = "artifacts/skillbridge-maharashtra"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 22978
+
+[services.development]
+run = "pnpm --filter @workspace/skillbridge-maharashtra run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/skillbridge-maharashtra", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/skillbridge-maharashtra/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "22978"
+BASE_PATH = "/"
