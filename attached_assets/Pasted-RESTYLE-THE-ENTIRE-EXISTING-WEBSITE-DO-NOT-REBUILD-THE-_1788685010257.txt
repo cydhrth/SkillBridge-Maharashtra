@@ -1,0 +1,583 @@
+RESTYLE THE ENTIRE EXISTING WEBSITE — DO NOT REBUILD THE WEBSITE FROM SCRATCH.
+
+The website is already functional and the existing pages, features, components, content, navigation, buttons, interactions, and logic are working correctly.
+
+Your job is ONLY to transform the visual design into a premium futuristic DARK NEON theme with a subtle purple aesthetic.
+
+IMPORTANT:
+
+* Do NOT remove existing functionality.
+* Do NOT change the application's logic.
+* Do NOT remove existing pages or sections.
+* Do NOT change the existing data/content unless required for styling.
+* Do NOT change the core user journey.
+* Keep all existing buttons and interactions working.
+* Modify the existing components/styles instead of creating an entirely different website.
+
+━━━━━━━━━━━━━━━━━━━━━━
+🎨 OVERALL VISUAL STYLE
+━━━━━━━━━━━━━━━━━━━━━━
+
+Transform the current light theme into:
+
+"Futuristic AI + Cyberpunk + Premium SaaS + Technology + Employment Platform"
+
+The website should feel like a real startup-grade product, NOT a college project.
+
+Think:
+
+* futuristic AI dashboard
+* premium developer platform
+* subtle cyberpunk
+* glassmorphism
+* dark space-like interface
+* neon purple/cyan technology aesthetic
+
+Keep it professional and sophisticated.
+
+DO NOT make it look childish or excessively colorful.
+
+━━━━━━━━━━━━━━━━━━━━━━
+🌑 COLOR PALETTE
+━━━━━━━━━━━━━━━━━━━━━━
+
+Replace the light background with:
+
+Primary background:
+#050509
+#070711
+#090A14
+
+Secondary surfaces:
+#0B0D18
+#0F1120
+#121426
+
+Borders:
+rgba(255,255,255,0.08)
+
+Primary neon:
+#8B5CF6
+
+Secondary purple:
+#A855F7
+
+Electric blue:
+#3B82F6
+
+Cyan:
+#22D3EE
+
+Optional subtle magenta:
+#D946EF
+
+Text:
+#FFFFFF
+
+Secondary text:
+#A1A1AA
+
+Muted text:
+#71717A
+
+Use purple as the MAIN accent.
+
+Use cyan/blue only as supporting accent colors.
+
+Do NOT make every element neon.
+
+━━━━━━━━━━━━━━━━━━━━━━
+✨ BACKGROUND
+━━━━━━━━━━━━━━━━━━━━━━
+
+Create a sophisticated dark futuristic background.
+
+Add subtle:
+
+* radial purple glow
+* blue/cyan glow
+* blurred gradient blobs
+* tiny floating particles
+* extremely subtle dot grid
+* thin geometric lines
+* futuristic network patterns
+* soft ambient lighting
+
+Example concept:
+
+Dark black background
++
+very subtle purple glow behind important sections
++
+small cyan/purple light effects
++
+faint grid
+
+The background should create depth without reducing readability.
+
+Keep the effects subtle.
+
+━━━━━━━━━━━━━━━━━━━━━━
+💎 GLASSMORPHISM
+━━━━━━━━━━━━━━━━━━━━━━
+
+Convert major cards into premium glass-style components.
+
+Cards should use something similar to:
+
+background:
+rgba(15, 17, 32, 0.65)
+
+backdrop-filter:
+blur(14px)
+
+border:
+1px solid rgba(255,255,255,0.08)
+
+Add extremely subtle purple/cyan glow around selected cards.
+
+Avoid huge blurry borders.
+
+The interface should feel clean and expensive.
+
+━━━━━━━━━━━━━━━━━━━━━━
+🟣 NAVBAR
+━━━━━━━━━━━━━━━━━━━━━━
+
+Make the navbar dark and premium.
+
+Use:
+
+* transparent/dark glass background
+* subtle bottom border
+* purple glow around the logo
+* white navigation text
+* purple hover state
+* smooth transitions
+
+Active navigation item:
+
+* purple text
+* subtle purple background
+* soft purple glow
+
+CTA button:
+
+Use a purple → blue subtle gradient.
+
+Add a small glow on hover.
+
+━━━━━━━━━━━━━━━━━━━━━━
+🚀 HERO SECTION
+━━━━━━━━━━━━━━━━━━━━━━
+
+Make the hero section visually impressive.
+
+Keep the existing hero content.
+
+Add:
+
+* large subtle purple radial glow behind the hero
+* cyan/purple ambient lighting
+* futuristic grid
+* animated network nodes
+* thin glowing connection lines
+* floating particles
+
+The hero visual should feel like an AI technology system.
+
+The main headline should be:
+
+large
+bold
+clean
+white
+
+Highlight important words using a subtle purple/cyan gradient.
+
+Example:
+
+Turn Your
+[Skills Into Your Future]
+
+The gradient must be elegant, not rainbow-like.
+
+━━━━━━━━━━━━━━━━━━━━━━
+🧊 BUTTONS
+━━━━━━━━━━━━━━━━━━━━━━
+
+Primary buttons:
+
+* purple/blue gradient
+* subtle glow
+* rounded corners
+* white text
+* smooth hover animation
+
+Hover:
+
+* slightly brighter
+* small upward movement
+* stronger glow
+
+Secondary buttons:
+
+* transparent glass
+* thin border
+* white text
+* purple hover border
+
+Do NOT make buttons excessively glowing.
+
+━━━━━━━━━━━━━━━━━━━━━━
+📦 CARDS
+━━━━━━━━━━━━━━━━━━━━━━
+
+Every major card should feel interactive.
+
+Normal:
+
+dark glass surface
+subtle border
+small shadow
+
+Hover:
+
+* card moves upward 3–5px
+* border becomes slightly purple
+* soft purple glow appears
+* icon slightly scales
+* background becomes slightly brighter
+
+Use smooth transitions around 200–300ms.
+
+━━━━━━━━━━━━━━━━━━━━━━
+🧠 SKILL CARDS
+━━━━━━━━━━━━━━━━━━━━━━
+
+Make the skill cards one of the strongest visual elements.
+
+Each card should have:
+
+* futuristic icon
+* skill name
+* description
+* tags
+* level indicator
+* progress
+* CTA
+
+Add a subtle colored glow based on the card's accent.
+
+When hovering:
+
+* icon glows
+* card lifts
+* border glows purple
+* arrow slides slightly right
+* subtle gradient appears behind the card
+
+Keep all 10 existing skills exactly as they are.
+
+━━━━━━━━━━━━━━━━━━━━━━
+📊 DASHBOARD
+━━━━━━━━━━━━━━━━━━━━━━
+
+Transform the dashboard into a premium futuristic AI dashboard.
+
+Use:
+
+* dark glass panels
+* neon progress indicators
+* glowing statistics
+* clean charts
+* purple/cyan accents
+* subtle grid backgrounds
+
+Statistics should have:
+
+large white numbers
+small muted labels
+small purple/cyan accent
+
+Example:
+
+68%
+Overall Progress
+
+The progress bars should use:
+
+purple → blue gradient
+
+with a very subtle glow.
+
+━━━━━━━━━━━━━━━━━━━━━━
+🔮 LEVEL PROGRESSION
+━━━━━━━━━━━━━━━━━━━━━━
+
+Make the 5-level progression visually impressive.
+
+Base
+↓
+Beginner
+↓
+Intermediate
+↓
+Advanced
+↓
+Master
+
+Create a futuristic glowing timeline.
+
+Completed:
+
+* purple/cyan glowing node
+* check icon
+* brighter card
+
+Current:
+
+* animated subtle pulse
+* stronger glow
+
+Locked:
+
+* darker
+* low opacity
+* lock icon
+
+The timeline connection should look like a futuristic energy/network line.
+
+━━━━━━━━━━━━━━━━━━━━━━
+✅ VERIFICATION
+━━━━━━━━━━━━━━━━━━━━━━
+
+Make the "VERIFIED SKILL" badge visually special.
+
+Use:
+
+purple/cyan border
+subtle glow
+small verification icon
+soft animated shimmer
+
+Do NOT make it excessively bright.
+
+It should communicate:
+
+TRUST
+PROOF
+VERIFICATION
+
+━━━━━━━━━━━━━━━━━━━━━━
+🔗 LEARN → PRACTICE → PROVE → VERIFY → CONNECT
+━━━━━━━━━━━━━━━━━━━━━━
+
+Make the core journey visually prominent.
+
+Represent the journey using glowing nodes connected by thin lines.
+
+Each node:
+
+01
+LEARN
+
+02
+PRACTICE
+
+03
+PROVE
+
+04
+VERIFY
+
+05
+CONNECT
+
+Use purple/cyan accents.
+
+The connection lines can have a very subtle animated light traveling through them.
+
+This should become one of the signature visual elements of the website.
+
+━━━━━━━━━━━━━━━━━━━━━━
+🌌 SECTION DIVIDERS
+━━━━━━━━━━━━━━━━━━━━━━
+
+Do not use plain section breaks.
+
+Use subtle:
+
+* glowing horizontal lines
+* fading gradients
+* grid transitions
+* small decorative dots
+* ambient purple light
+
+Keep them minimal.
+
+━━━━━━━━━━━━━━━━━━━━━━
+✨ MICRO INTERACTIONS
+━━━━━━━━━━━━━━━━━━━━━━
+
+Add tasteful animations throughout the existing website.
+
+Examples:
+
+Cards:
+→ slight lift on hover
+
+Buttons:
+→ subtle glow + movement
+
+Icons:
+→ slight scale/rotation where appropriate
+
+Progress:
+→ animate from 0 to current value when visible
+
+Statistics:
+→ subtle count-up animation
+
+Verification:
+→ subtle shimmer
+
+Timeline:
+→ glowing nodes
+
+Background:
+→ extremely slow particle movement
+
+Page:
+→ smooth fade/slide transitions
+
+IMPORTANT:
+Animations must be subtle and performant.
+
+Do NOT make the website feel like an animated game.
+
+━━━━━━━━━━━━━━━━━━━━━━
+🟣 PURPLE AESTHETIC
+━━━━━━━━━━━━━━━━━━━━━━
+
+Purple should be the visual identity.
+
+Use purple primarily for:
+
+* primary CTA
+* active navigation
+* progress
+* skill highlights
+* verification
+* timeline
+* important statistics
+* hover states
+
+Use cyan/blue sparingly to create contrast.
+
+The overall visual impression should be:
+
+BLACK
++
+DARK NAVY
++
+PURPLE
++
+SMALL AMOUNTS OF CYAN
+
+━━━━━━━━━━━━━━━━━━━━━━
+🖥️ RESPONSIVENESS
+━━━━━━━━━━━━━━━━━━━━━━
+
+Do NOT break the existing responsive design.
+
+Check:
+
+Desktop
+Laptop
+Tablet
+Mobile
+
+Make sure:
+
+* cards remain readable
+* glow effects don't overflow badly
+* navigation remains usable
+* text remains high contrast
+* buttons remain touch-friendly
+* animations remain smooth
+
+On mobile, reduce background effects and excessive glow for performance.
+
+━━━━━━━━━━━━━━━━━━━━━━
+♿ READABILITY
+━━━━━━━━━━━━━━━━━━━━━━
+
+Despite the neon aesthetic:
+
+* maintain excellent contrast
+* keep body text readable
+* don't use neon text for long paragraphs
+* don't rely only on color for status
+* preserve visible focus states
+* keep buttons accessible
+
+The website should look futuristic WITHOUT sacrificing usability.
+
+━━━━━━━━━━━━━━━━━━━━━━
+⚡ PERFORMANCE
+━━━━━━━━━━━━━━━━━━━━━━
+
+Do not add heavy libraries unnecessarily.
+
+Prefer:
+
+CSS gradients
+CSS shadows
+CSS animations
+existing animation libraries if already installed
+
+Avoid excessive:
+
+blur
+box-shadow
+particles
+DOM elements
+
+The website must remain fast.
+
+━━━━━━━━━━━━━━━━━━━━━━
+🔥 FINAL DESIGN GOAL
+━━━━━━━━━━━━━━━━━━━━━━
+
+After the redesign, the website should immediately feel like:
+
+"An advanced AI-powered career technology platform from the future."
+
+It should look:
+
+Premium
+Futuristic
+Dark
+Elegant
+Minimal
+Neon
+Professional
+Interactive
+Trustworthy
+
+NOT:
+
+Generic LMS
+Generic job portal
+Basic college website
+Overly colorful cyberpunk website
+Childish gaming UI
+
+MOST IMPORTANT:
+
+Preserve the entire existing website and functionality.
+
+ONLY upgrade the visual system, theme, styling, animations, backgrounds, cards, buttons, typography, and visual hierarchy.
+
+Make the final result look like a polished startup product that could impress hackathon judges at first glance.
